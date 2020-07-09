@@ -6,7 +6,7 @@
 ### Language
 - JAVA
 ### resume
-- https://drive.google.com/drive/folders/1-rQP3JgcwnsDqbJ9di5ANXyK4j1lFIly
+- https://drive.google.com/file/d/17x1IieTjnfQXSvxaLMbmwHHCmxa7O_E1/view?usp=sharing
 ### Portfolio
 - https://uniquehrh.github.io/portfolio/port1/portfolio
 
