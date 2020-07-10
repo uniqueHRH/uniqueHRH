@@ -3,8 +3,6 @@
 
 👋 Hi! Welcome to my GitHub place. I am JAVA developer.
 
-### Language
-- JAVA
 ### resume
 - https://drive.google.com/file/d/17x1IieTjnfQXSvxaLMbmwHHCmxa7O_E1/view?usp=sharing
 ### Portfolio
