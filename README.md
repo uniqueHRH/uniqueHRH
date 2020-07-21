@@ -4,7 +4,7 @@
 👋 Hi! Welcome to my GitHub place. I am JAVA developer.
 
 ### resume
-- https://drive.google.com/file/d/17x1IieTjnfQXSvxaLMbmwHHCmxa7O_E1/view?usp=sharing
+- https://drive.google.com/file/d/1chpTGkmLgkHZj64Pv0kHvb1qwyeo5qUE/view?usp=sharing
 ### Portfolio
 - https://uniquehrh.github.io/portfolio/port1/portfolio
 
